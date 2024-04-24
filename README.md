@@ -8,13 +8,13 @@ You can access the live demo of the project on GitHub Pages: [Naan Mudhalvan Gen
 
 ## Screenshots
 
-![Preview]('img/Start up page.png')
+![Preview](img/Start up page.png)
 *This is preview of the ui. I don't have good experience at ui. So, it could feel something awkward*
 
-![Simple Chat]('img/Simple Chat.png')
+![Simple Chat](img/Simple Chat.png)
 *This a screenshort with a simple prompt and the respose from the GenAI*
 
-![Gen AI Programing]('img/Programming.png')
+![Gen AI Programing](img/Programming.png)
 *This is the screen short of GenAI programming.*
 
 ## Technologies Used
