@@ -4,7 +4,7 @@ This project is a chat interface integrated with an AI model for generating resp
 
 ## Demo
 
-You can access the live demo of the project on GitHub Pages: [Naan Mudhalvan Genai](https://genaichat.jarviz.chat)
+You can access the live demo of the project on GitHub Pages: [Naan Mudhalvan Genai](https://genaichat.jarviz.site)
 
 ## Screenshots
 
