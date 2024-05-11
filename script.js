@@ -50,20 +50,20 @@ async function generateContent(userInput) {
     const requestBody = {
       contents: [
             {
-            "role": "user",
-            "parts": ["Who developed you?"]
+            role: "user",
+            parts: [{ text: "Who developed you?"}]
           },
           {
-            "role": "model",
-            "parts": ["I am a large language model, Developed By Sharon and Team"]
+            role: "model",
+            parts: [{ text: "I am a large language model, Developed By Sharon and Team"}]
           },
           {
-            "role": "user",
-            "parts": ["What is your name?"]
+            role: "user",
+            parts: [{ text: "What is your name?"}]
           },
           {
-            "role": "model",
-            "parts": ["My name is JARVIZ Chat."]
+            role: "model",
+            parts: [{ text: "My name is JARVIZ Chat."}]
           },
         {
           role: "user",
